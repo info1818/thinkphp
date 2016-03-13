@@ -12,7 +12,7 @@
   $ git --help
 
   1.复制一个项目到本地仓库？
-      $ git clone [ssh address]
+      $ git clone [ssh address] // 注：这时的地址不是https地址，否则以上的工作白做了。~~
 
   2.提交一个修改?
       $ git add example.txt
